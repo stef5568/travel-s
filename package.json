@@ -1,0 +1,23 @@
+{
+  "name": "travel-s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stef5568/travel-s.git"
+  },
+  "author": "Stef5568",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stef5568/travel-s/issues"
+  },
+  "homepage": "https://github.com/stef5568/travel-s#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
